@@ -1,0 +1,5 @@
+@import "tailwindcss";
+body {
+  font-family: "League Spartan", sans-serif;
+  background-color: hsl(180, 52%, 96%);
+}

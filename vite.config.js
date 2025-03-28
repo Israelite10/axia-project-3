@@ -6,6 +6,8 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: '/axia-project-3/',
+
   plugins: [
     react(),
     tailwindcss(),
